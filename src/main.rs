@@ -4,6 +4,8 @@ mod p1920;
 mod p3190;
 #[path = "3512.minimum-operations-to-make-array-sum-divisible-by-k.rs"]
 mod p3512;
+#[path = "3668.restore-finishing-order.rs"]
+mod p3668;
 
 fn main() {
     println!("Hello, LeetCode!");
