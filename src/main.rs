@@ -6,6 +6,8 @@ mod p3190;
 mod p3512;
 #[path = "3668.restore-finishing-order.rs"]
 mod p3668;
+#[path = "1929.concatenation-of-array.rs"]
+mod p1929;
 
 fn main() {
     println!("Hello, LeetCode!");
