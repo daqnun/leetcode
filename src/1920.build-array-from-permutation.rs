@@ -37,6 +37,8 @@
 //
 // Follow-up: Can you solve it without using an extra space (i.e., O(1) memory)?
 
+struct Solution;
+
 impl Solution {
     pub fn build_array(mut nums: Vec<i32>) -> Vec<i32> {
         let n = nums.len();

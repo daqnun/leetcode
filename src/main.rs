@@ -10,6 +10,8 @@ mod p3190;
 mod p3512;
 #[path = "3668.restore-finishing-order.rs"]
 mod p3668;
+#[path = "2942.find-words-containing-character.rs"]
+mod p2942;
 
 fn main() {
     println!("Hello, LeetCode!");
