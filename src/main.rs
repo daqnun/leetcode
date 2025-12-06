@@ -12,6 +12,8 @@ mod p3512;
 mod p3668;
 #[path = "2942.find-words-containing-character.rs"]
 mod p2942;
+#[path = "1863.sum-of-all-subset-xor-totals.rs"]
+mod p1863;
 
 fn main() {
     println!("Hello, LeetCode!");
