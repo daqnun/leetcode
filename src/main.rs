@@ -14,6 +14,8 @@ mod p3668;
 mod p2942;
 #[path = "1863.sum-of-all-subset-xor-totals.rs"]
 mod p1863;
+#[path = "3289.the-two-sneaky-numbers-of-digitville.rs"]
+mod p3289;
 
 fn main() {
     println!("Hello, LeetCode!");
