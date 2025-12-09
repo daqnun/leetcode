@@ -1,3 +1,5 @@
+#[path = "1108.defanging-an-ip-address.rs"]
+mod p1108;
 #[path = "1512.number-of-good-pairs.rs"]
 mod p1512;
 #[path = "1863.sum-of-all-subset-xor-totals.rs"]
