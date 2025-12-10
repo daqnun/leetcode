@@ -1,3 +1,5 @@
+#[path = "3110.score-of-a-string.rs"]
+mod p3110;
 #[path = "1108.defanging-an-ip-address.rs"]
 mod p1108;
 #[path = "1512.number-of-good-pairs.rs"]
