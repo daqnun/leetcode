@@ -22,6 +22,8 @@ mod p3289;
 mod p3512;
 #[path = "3668.restore-finishing-order.rs"]
 mod p3668;
+#[path = "3541.find-most-frequent-vowel-and-consonant.rs"]
+mod p3541;
 
 fn main() {
     println!("Hello, LeetCode!");
