@@ -24,6 +24,8 @@ mod p3512;
 mod p3668;
 #[path = "3541.find-most-frequent-vowel-and-consonant.rs"]
 mod p3541;
+#[path = "771.jewels-and-stones.rs"]
+mod p771;
 
 fn main() {
     println!("Hello, LeetCode!");
