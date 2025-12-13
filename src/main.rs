@@ -26,6 +26,8 @@ mod p3668;
 mod p3541;
 #[path = "771.jewels-and-stones.rs"]
 mod p771;
+#[path = "3280.convert-date-to-binary.rs"]
+mod p3280;
 
 fn main() {
     println!("Hello, LeetCode!");
