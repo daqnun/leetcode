@@ -28,6 +28,8 @@ mod p3541;
 mod p771;
 #[path = "3280.convert-date-to-binary.rs"]
 mod p3280;
+#[path = "1684.count-the-number-of-consistent-strings.rs"]
+mod p1684;
 
 fn main() {
     println!("Hello, LeetCode!");
